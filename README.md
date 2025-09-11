@@ -1,9 +1,9 @@
-Hey there! To get super exiciting content follow me. Some notes and tricky questions related to Programming will blow your mind....
-So still wondering .... what you are waiting for... still stuck in my page hahaha XD 
-If (brain!= empty)
-{
-keep coding ();
-}
-else {
-order coffee();
-}
+This project analyzes employee salary data to explore retention patterns. It uses Python for data preprocessing, visualization, and machine learning to understand how factors like experience, education, and job role affect salary trends and retention
+
+Features include
+
+Data preprocessing with Pandas & NumPy
+Salary visualization using Matplotlib
+Linear Regression model for salary prediction
+Insights into employee retention patterns
+
